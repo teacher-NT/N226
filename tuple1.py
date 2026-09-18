@@ -8,7 +8,7 @@ os.system("cls")
 # print(mytuple1)
 # print(mytuple1[3])
 
-
+# ===============================================================
 
 mevalar = ('olma', 'banan', 'gilos', 'anor', 'kivi')
 # if 'gilos' in mevalar:
@@ -20,5 +20,24 @@ mevalar = ('olma', 'banan', 'gilos', 'anor', 'kivi')
 # for i in range(5):
 #     print(i, mevalar[i])
 
-for i in mevalar:
-    print(i)
+# for i in mevalar:
+#     print(i)
+
+# ===================================================================
+
+
+mevalar = ('olma', 'banan', 'gilos', 'anor', 'kivi')
+
+print(mevalar[2])
+
+print(mevalar[2:5])
+
+print(mevalar[1:4:2])
+
+print(mevalar[3:])
+
+print(mevalar[:3])
+
+print(mevalar[-2])
+
+print(mevalar[::-1])
