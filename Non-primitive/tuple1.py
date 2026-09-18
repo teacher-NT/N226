@@ -62,3 +62,12 @@ mevalar = ('olma', 'anor', 'banan')
 # sonlar = (1,2,3,4,5,6,7,8)
 # a,*b,c = sonlar
 # print(a,b,c)
+
+# =======================================================
+
+matn = "Salom dunyo"
+
+print(len(matn))
+
+tuple2 = ('Salom', 'Dunyo', 'Hello', 'World',1,2,3,4,5)
+print(len(tuple2))
