@@ -54,4 +54,4 @@ car = {
 # car["narx"] = 1500
 # car["rang"] = "Yashil"
 car.update({"model": "Spark", "narx":1500, 'rang':"Yashil"})
-print(car)
+# print(car)
