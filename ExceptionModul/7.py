@@ -10,7 +10,7 @@ from translate import Translator
 # text = tarjimon.translate(text)
 # print(text[::-1])
 
-tarjimon = Translator(to_lang='zh', from_lang='uz')
+tarjimon = Translator(to_lang='tg', from_lang='uz')
 text = input(">>> ")
 text = tarjimon.translate(text)
 print(text)
