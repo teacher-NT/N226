@@ -1,5 +1,6 @@
 import os
 os.system("cls")
+
 try:
     a = int(input("a = "))
     b = int(input("b = "))
