@@ -21,5 +21,5 @@ file = open("myfile.txt")
 # lines = file.readlines()
 # print(lines)
 
-for i in file:
-    print(i, end="")
+# for i in file:
+#     print(i, end="")
