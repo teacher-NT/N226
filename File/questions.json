@@ -1,0 +1,824 @@
+{
+  "O'zbekistonning poytaxti qaysi shahar?": {
+    "A": "Samarqand",
+    "*B": "Toshkent",
+    "C": "Buxoro",
+    "D": "Andijon"
+  },
+  "Turkiyaning poytaxti qaysi shahar?": {
+    "A": "Istanbul",
+    "*B": "Anqara",
+    "C": "Izmir",
+    "D": "Bursa"
+  },
+  "Fransiyaning poytaxti qaysi shahar?": {
+    "A": "Lion",
+    "*B": "Parij",
+    "C": "Marsel",
+    "D": "Nitssa"
+  },
+  "Yaponiyaning poytaxti qaysi shahar?": {
+    "A": "Osaka",
+    "*B": "Tokio",
+    "C": "Kioto",
+    "D": "Xirosima"
+  },
+  "Germaniyaning poytaxti qaysi shahar?": {
+    "A": "Myunxen",
+    "B": "Gamburg",
+    "*C": "Berlin",
+    "D": "Frankfurt"
+  },
+  "Buyuk Britaniyaning poytaxti qaysi shahar?": {
+    "A": "Manchester",
+    "*B": "London",
+    "C": "Liverpul",
+    "D": "Bristol"
+  },
+  "Italiyaning poytaxti qaysi shahar?": {
+    "*A": "Rim",
+    "B": "Milan",
+    "C": "Venetsiya",
+    "D": "Neapol"
+  },
+  "Ispaniyaning poytaxti qaysi shahar?": {
+    "A": "Barselona",
+    "*B": "Madrid",
+    "C": "Sevilya",
+    "D": "Valensiya"
+  },
+  "Misrning poytaxti qaysi shahar?": {
+    "A": "Iskandariya",
+    "*B": "Qohira",
+    "C": "Giza",
+    "D": "Luksor"
+  },
+  "Qozog'istonning poytaxti qaysi shahar?": {
+    "A": "Olmaota",
+    "*B": "Astana",
+    "C": "Shimkent",
+    "D": "Taraz"
+  },
+  "Yerning tabiiy yo'ldoshi nima?": {
+    "A": "Quyosh",
+    "*B": "Oy",
+    "C": "Mars",
+    "D": "Venera"
+  },
+  "Quyosh tizimida nechta sayyora bor?": {
+    "A": "7 ta",
+    "*B": "8 ta",
+    "C": "9 ta",
+    "D": "10 ta"
+  },
+  "Qaysi sayyora Quyoshga eng yaqin?": {
+    "*A": "Merkuriy",
+    "B": "Venera",
+    "C": "Yer",
+    "D": "Mars"
+  },
+  "Qaysi sayyora Quyosh tizimidagi eng katta sayyora?": {
+    "A": "Saturn",
+    "*B": "Yupiter",
+    "C": "Neptun",
+    "D": "Uran"
+  },
+  "Qizil sayyora deb qaysi sayyora ataladi?": {
+    "A": "Venera",
+    "*B": "Mars",
+    "C": "Merkuriy",
+    "D": "Saturn"
+  },
+  "Suvning kimyoviy formulasi qanday?": {
+    "A": "CO2",
+    "*B": "H2O",
+    "C": "O2",
+    "D": "NaCl"
+  },
+  "Odam tanasida qonni haydaydigan organ qaysi?": {
+    "A": "O'pka",
+    "*B": "Yurak",
+    "C": "Jigar",
+    "D": "Buyrak"
+  },
+  "Odam tanasida nechta o'pka bor?": {
+    "A": "1 ta",
+    "*B": "2 ta",
+    "C": "3 ta",
+    "D": "4 ta"
+  },
+  "Inson tanasidagi eng katta organ qaysi?": {
+    "*A": "Teri",
+    "B": "Jigar",
+    "C": "Yurak",
+    "D": "O'pka"
+  },
+  "Odam skeletida taxminan nechta suyak bor?": {
+    "A": "106 ta",
+    "*B": "206 ta",
+    "C": "306 ta",
+    "D": "406 ta"
+  },
+  "Fotosintez jarayonida o'simliklar qaysi gazni yutadi?": {
+    "A": "Kislorod",
+    "*B": "Karbonat angidrid",
+    "C": "Azot",
+    "D": "Vodorod"
+  },
+  "O'simliklar fotosintez jarayonida qaysi gazni chiqaradi?": {
+    "*A": "Kislorod",
+    "B": "Karbonat angidrid",
+    "C": "Azot",
+    "D": "Metan"
+  },
+  "Atmosferada eng ko'p uchraydigan gaz qaysi?": {
+    "A": "Kislorod",
+    "*B": "Azot",
+    "C": "Karbonat angidrid",
+    "D": "Vodorod"
+  },
+  "Yer yuzidagi eng katta okean qaysi?": {
+    "A": "Atlantika okeani",
+    "*B": "Tinch okeani",
+    "C": "Hind okeani",
+    "D": "Shimoliy Muz okeani"
+  },
+  "Yer yuzidagi eng katta qit'a qaysi?": {
+    "*A": "Osiyo",
+    "B": "Afrika",
+    "C": "Yevropa",
+    "D": "Avstraliya"
+  },
+  "Dunyodagi eng baland tog' qaysi?": {
+    "A": "K2",
+    "*B": "Everest",
+    "C": "Elbrus",
+    "D": "Mont-Blan"
+  },
+  "Nil daryosi qaysi qit'ada joylashgan?": {
+    "A": "Osiyo",
+    "*B": "Afrika",
+    "C": "Yevropa",
+    "D": "Janubiy Amerika"
+  },
+  "Amazonka daryosi qaysi qit'ada joylashgan?": {
+    "A": "Afrika",
+    "B": "Osiyo",
+    "*C": "Janubiy Amerika",
+    "D": "Yevropa"
+  },
+  "Sahroi Kabir qaysi qit'ada joylashgan?": {
+    "A": "Osiyo",
+    "*B": "Afrika",
+    "C": "Avstraliya",
+    "D": "Shimoliy Amerika"
+  },
+  "O'zbekiston qaysi qit'ada joylashgan?": {
+    "A": "Yevropa",
+    "*B": "Osiyo",
+    "C": "Afrika",
+    "D": "Amerika"
+  },
+  "Amir Temur qaysi asrda yashagan?": {
+    "A": "XII asr",
+    "B": "XIII asr",
+    "*C": "XIV asr",
+    "D": "XVI asr"
+  },
+  "Mirzo Ulug'bek kim bo'lgan?": {
+    "A": "Shoir va yozuvchi",
+    "*B": "Astronom va olim",
+    "C": "Rassom",
+    "D": "Tabib"
+  },
+  "Alisher Navoiy qaysi asarda mashhur?": {
+    "A": "Boburnoma",
+    "*B": "Xamsa",
+    "C": "Qutadg'u bilig",
+    "D": "Devonu lug'otit turk"
+  },
+  "Zahiriddin Muhammad Bobur qaysi davlatga asos solgan?": {
+    "A": "Usmoniylar imperiyasi",
+    "*B": "Boburiylar imperiyasi",
+    "C": "Rim imperiyasi",
+    "D": "Mo'g'ullar imperiyasi"
+  },
+  "Abu Ali ibn Sino qaysi sohada mashhur bo'lgan?": {
+    "A": "Astronomiya",
+    "*B": "Tibbiyot",
+    "C": "Geografiya",
+    "D": "Me'morchilik"
+  },
+  "Muhammad al-Xorazmiy qaysi fan rivojiga katta hissa qo'shgan?": {
+    "A": "Biologiya",
+    "*B": "Matematika",
+    "C": "Kimyo",
+    "D": "Geologiya"
+  },
+  "Al-Xorazmiy nomidan qaysi matematik atama kelib chiqqan?": {
+    "A": "Geometriya",
+    "*B": "Algoritm",
+    "C": "Integral",
+    "D": "Funksiya"
+  },
+  "Yer Quyosh atrofini taxminan qancha vaqtda aylanib chiqadi?": {
+    "A": "24 soatda",
+    "B": "30 kunda",
+    "*C": "365 kunda",
+    "D": "100 kunda"
+  },
+  "Bir sutkada necha soat bor?": {
+    "A": "12",
+    "*B": "24",
+    "C": "36",
+    "D": "48"
+  },
+  "Bir soatda necha daqiqa bor?": {
+    "A": "30",
+    "*B": "60",
+    "C": "90",
+    "D": "100"
+  },
+  "Bir daqiqada necha soniya bor?": {
+    "A": "30",
+    "*B": "60",
+    "C": "90",
+    "D": "100"
+  },
+  "7 x 8 nechaga teng?": {
+    "A": "48",
+    "*B": "56",
+    "C": "64",
+    "D": "54"
+  },
+  "144 ning kvadrat ildizi nechaga teng?": {
+    "A": "10",
+    "*B": "12",
+    "C": "14",
+    "D": "16"
+  },
+  "15 + 27 nechaga teng?": {
+    "A": "40",
+    "*B": "42",
+    "C": "44",
+    "D": "46"
+  },
+  "100 ning 25 foizi nechaga teng?": {
+    "A": "20",
+    "*B": "25",
+    "C": "30",
+    "D": "40"
+  },
+  "2 ning 5-darajasi nechaga teng?": {
+    "A": "16",
+    "*B": "32",
+    "C": "64",
+    "D": "25"
+  },
+  "Uchburchak ichki burchaklari yig'indisi necha gradus?": {
+    "A": "90°",
+    "*B": "180°",
+    "C": "270°",
+    "D": "360°"
+  },
+  "To'g'ri burchak necha gradusga teng?": {
+    "A": "45°",
+    "*B": "90°",
+    "C": "180°",
+    "D": "360°"
+  },
+  "Kvadratning nechta tomoni bor?": {
+    "A": "3 ta",
+    "*B": "4 ta",
+    "C": "5 ta",
+    "D": "6 ta"
+  },
+  "Doiraning markazidan chegarasigacha bo'lgan masofa nima deyiladi?": {
+    "A": "Diametr",
+    "*B": "Radius",
+    "C": "Perimetr",
+    "D": "Diagonal"
+  },
+  "Kompyuterning vaqtinchalik xotirasi nima deb ataladi?": {
+    "A": "HDD",
+    "*B": "RAM",
+    "C": "USB",
+    "D": "DVD"
+  },
+  "CPU qisqartmasi nimani anglatadi?": {
+    "A": "Computer Power Unit",
+    "*B": "Central Processing Unit",
+    "C": "Central Program User",
+    "D": "Computer Processing Utility"
+  },
+  "HTML asosan nima uchun ishlatiladi?": {
+    "A": "Rasm tahrirlash uchun",
+    "*B": "Veb-sahifa tuzilishini yaratish uchun",
+    "C": "Video montaj qilish uchun",
+    "D": "Antivirus yaratish uchun"
+  },
+  "Python nima?": {
+    "A": "Operatsion tizim",
+    "*B": "Dasturlash tili",
+    "C": "Brauzer",
+    "D": "Kompyuter qurilmasi"
+  },
+  "Android qaysi kompaniya bilan bog'liq operatsion tizim?": {
+    "A": "Apple",
+    "*B": "Google",
+    "C": "Microsoft",
+    "D": "IBM"
+  },
+  "Internetdagi veb-sahifalarni ko'rish uchun qaysi dastur ishlatiladi?": {
+    "A": "Kompilyator",
+    "*B": "Brauzer",
+    "C": "Arxivator",
+    "D": "Drayver"
+  },
+  "Google tomonidan ishlab chiqilgan mashhur brauzer qaysi?": {
+    "A": "Firefox",
+    "*B": "Chrome",
+    "C": "Opera",
+    "D": "Safari"
+  },
+  "Microsoft tomonidan ishlab chiqilgan operatsion tizim qaysi?": {
+    "A": "Linux",
+    "*B": "Windows",
+    "C": "Android",
+    "D": "macOS"
+  },
+  "Elektr toki kuchi qaysi birlikda o'lchanadi?": {
+    "A": "Volt",
+    "*B": "Amper",
+    "C": "Vatt",
+    "D": "Om"
+  },
+  "Elektr kuchlanishi qaysi birlikda o'lchanadi?": {
+    "*A": "Volt",
+    "B": "Amper",
+    "C": "Vatt",
+    "D": "Joul"
+  },
+  "Quvvatning SI birlikdagi o'lchov birligi nima?": {
+    "A": "Volt",
+    "B": "Amper",
+    "*C": "Vatt",
+    "D": "Om"
+  },
+  "Haroratni o'lchash uchun qaysi asbob ishlatiladi?": {
+    "A": "Barometr",
+    "*B": "Termometr",
+    "C": "Ampermetr",
+    "D": "Voltmetr"
+  },
+  "Atmosfera bosimini o'lchaydigan asbob nima?": {
+    "A": "Termometr",
+    "*B": "Barometr",
+    "C": "Spidometr",
+    "D": "Voltmetr"
+  },
+  "Yorug'lik tezligi taxminan qancha?": {
+    "A": "30 000 km/s",
+    "*B": "300 000 km/s",
+    "C": "3 000 km/s",
+    "D": "3 000 000 km/s"
+  },
+  "Muzning erish harorati normal bosimda necha °C?": {
+    "*A": "0°C",
+    "B": "10°C",
+    "C": "50°C",
+    "D": "100°C"
+  },
+  "Suvning qaynash harorati normal bosimda necha °C?": {
+    "A": "50°C",
+    "*B": "100°C",
+    "C": "150°C",
+    "D": "200°C"
+  },
+  "Oltinning kimyoviy belgisi qaysi?": {
+    "A": "Ag",
+    "*B": "Au",
+    "C": "Fe",
+    "D": "Cu"
+  },
+  "Temirning kimyoviy belgisi qaysi?": {
+    "A": "Ti",
+    "*B": "Fe",
+    "C": "Te",
+    "D": "Ir"
+  },
+  "Kislorodning kimyoviy belgisi qaysi?": {
+    "*A": "O",
+    "B": "K",
+    "C": "C",
+    "D": "N"
+  },
+  "Karbonat angidridning formulasi qaysi?": {
+    "A": "H2O",
+    "*B": "CO2",
+    "C": "O2",
+    "D": "CH4"
+  },
+  "Inson nafas olishida asosiy zarur gaz qaysi?": {
+    "*A": "Kislorod",
+    "B": "Azot",
+    "C": "Karbonat angidrid",
+    "D": "Vodorod"
+  },
+  "Asalarilar qaysi mahsulotni ishlab chiqaradi?": {
+    "A": "Sut",
+    "*B": "Asal",
+    "C": "Ipak",
+    "D": "Moy"
+  },
+  "Ipak qaysi hasharot bilan bog'liq?": {
+    "A": "Asalari",
+    "*B": "Ipak qurti",
+    "C": "Chigirtka",
+    "D": "Kapalak"
+  },
+  "Dunyodagi eng katta quruqlik hayvoni qaysi?": {
+    "A": "Jirafa",
+    "*B": "Afrika fili",
+    "C": "Karkidon",
+    "D": "Begemot"
+  },
+  "Eng tez yuguradigan quruqlik hayvoni qaysi?": {
+    "A": "Arslon",
+    "*B": "Gepard",
+    "C": "Yo'lbars",
+    "D": "Bo'ri"
+  },
+  "Pingvinlar asosan qaysi yarim sharda yashaydi?": {
+    "A": "Shimoliy yarim sharda",
+    "*B": "Janubiy yarim sharda",
+    "C": "Faqat ekvatorda",
+    "D": "Faqat Osiyoda"
+  },
+  "Dunyodagi eng katta sutemizuvchi hayvon qaysi?": {
+    "A": "Fil",
+    "*B": "Ko'k kit",
+    "C": "Akula",
+    "D": "Jirafa"
+  },
+  "Qaysi hayvon sutemizuvchilar guruhiga kiradi?": {
+    "A": "Timsoh",
+    "B": "Ilon",
+    "*C": "Delfin",
+    "D": "Burgut"
+  },
+  "Dunyodagi eng katta orol qaysi?": {
+    "A": "Madagaskar",
+    "*B": "Grenlandiya",
+    "C": "Borneo",
+    "D": "Yangi Gvineya"
+  },
+  "Misr ehromlari asosan qaysi hududda joylashgan?": {
+    "A": "Qohira markazida",
+    "*B": "Gizada",
+    "C": "Iskandariyada",
+    "D": "Luksorda"
+  },
+  "Buyuk Xitoy devori qaysi davlatda joylashgan?": {
+    "A": "Yaponiya",
+    "*B": "Xitoy",
+    "C": "Koreya",
+    "D": "Mo'g'uliston"
+  },
+  "Kolizey qaysi shaharda joylashgan?": {
+    "*A": "Rim",
+    "B": "Afina",
+    "C": "Parij",
+    "D": "Madrid"
+  },
+  "Eyfel minorasi qaysi shaharda joylashgan?": {
+    "A": "London",
+    "*B": "Parij",
+    "C": "Berlin",
+    "D": "Madrid"
+  },
+  "O'zbekistonning milliy valyutasi nima?": {
+    "A": "Tenge",
+    "*B": "So'm",
+    "C": "Somoni",
+    "D": "Manat"
+  },
+  "Yaponiyaning pul birligi nima?": {
+    "A": "Yuan",
+    "*B": "Yen",
+    "C": "Won",
+    "D": "Rubl"
+  },
+  "AQShning pul birligi nima?": {
+    "*A": "Dollar",
+    "B": "Funt",
+    "C": "Yevro",
+    "D": "Frank"
+  },
+  "Yevropa Ittifoqining ko'plab davlatlarida ishlatiladigan valyuta qaysi?": {
+    "A": "Dollar",
+    "*B": "Yevro",
+    "C": "Funt",
+    "D": "Yen"
+  },
+  "BMT qisqartmasi nimani anglatadi?": {
+    "A": "Butunjahon Milliy Tashkiloti",
+    "*B": "Birlashgan Millatlar Tashkiloti",
+    "C": "Bosh Milliy Tashkilot",
+    "D": "Birlashgan Mamlakatlar Tizimi"
+  },
+  "O'zbekiston mustaqilligi qaysi yilda e'lon qilingan?": {
+    "A": "1989-yil",
+    "*B": "1991-yil",
+    "C": "1995-yil",
+    "D": "2000-yil"
+  },
+  "O'zbekiston bayrog'ida nechta yulduz tasvirlangan?": {
+    "A": "10 ta",
+    "B": "11 ta",
+    "*C": "12 ta",
+    "D": "13 ta"
+  },
+  "O'zbekiston bayrog'idagi asosiy ranglardan biri qaysi?": {
+    "A": "Sariq",
+    "*B": "Moviy",
+    "C": "Pushti",
+    "D": "Jigarrang"
+  },
+  "O'zbekiston madhiyasi musiqasini kim bastalagan?": {
+    "A": "Alisher Navoiy",
+    "*B": "Mutal Burhonov",
+    "C": "Yunus Rajabiy",
+    "D": "Komiljon Otaniyozov"
+  },
+  "O'zbekiston Respublikasi Konstitutsiyasi dastlab qaysi yilda qabul qilingan?": {
+    "A": "1990-yil",
+    "*B": "1992-yil",
+    "C": "1995-yil",
+    "D": "2000-yil"
+  },
+  "O'zbek tilida nechta unli harf bor?": {
+    "A": "5 ta",
+    "*B": "6 ta",
+    "C": "7 ta",
+    "D": "8 ta"
+  },
+  "Alifboda 'B' harfidan keyin qaysi harf keladi?": {
+    "A": "A",
+    "*B": "D",
+    "C": "E",
+    "D": "F"
+  },
+  "Sinonim so'zlar qanday so'zlar?": {
+    "A": "Qarama-qarshi ma'noli",
+    "*B": "Ma'nodosh",
+    "C": "Bir xil yozilib, boshqa ma'noli",
+    "D": "Faqat qisqartma so'zlar"
+  },
+  "Antonim so'zlar qanday so'zlar?": {
+    "A": "Ma'nodosh",
+    "*B": "Qarama-qarshi ma'noli",
+    "C": "Bir xil talaffuzli",
+    "D": "Faqat otlar"
+  },
+  "Ingliz tilida 'book' so'zi nimani anglatadi?": {
+    "A": "Qalam",
+    "*B": "Kitob",
+    "C": "Daftar",
+    "D": "Stol"
+  },
+  "Ingliz tilida 'water' so'zi nimani anglatadi?": {
+    "A": "Olov",
+    "*B": "Suv",
+    "C": "Havo",
+    "D": "Yer"
+  },
+  "Ingliz tilida 'school' so'zi nimani anglatadi?": {
+    "A": "Uy",
+    "*B": "Maktab",
+    "C": "Do'kon",
+    "D": "Kasalxona"
+  },
+  "Rus tilida 'спасибо' so'zi nimani anglatadi?": {
+    "A": "Salom",
+    "*B": "Rahmat",
+    "C": "Xayr",
+    "D": "Kechirasiz"
+  },
+  "Dunyoda eng ko'p ona tilida so'zlashuvchilarga ega tillardan biri qaysi?": {
+    "A": "O'zbek tili",
+    "*B": "Xitoy tili",
+    "C": "Shved tili",
+    "D": "Island tili"
+  },
+  "Olimpiya o'yinlari ramzida nechta halqa bor?": {
+    "A": "4 ta",
+    "*B": "5 ta",
+    "C": "6 ta",
+    "D": "7 ta"
+  },
+  "Futbol jamoasida maydonda odatda nechta o'yinchi bo'ladi?": {
+    "A": "9 ta",
+    "*B": "11 ta",
+    "C": "12 ta",
+    "D": "15 ta"
+  },
+  "Basketbol jamoasidan maydonda bir vaqtning o'zida nechta o'yinchi bo'ladi?": {
+    "A": "4 ta",
+    "*B": "5 ta",
+    "C": "6 ta",
+    "D": "7 ta"
+  },
+  "Tennisda 'love' atamasi odatda nimani bildiradi?": {
+    "A": "15 ochko",
+    "*B": "0 ochko",
+    "C": "30 ochko",
+    "D": "G'alaba"
+  },
+  "FIFA qaysi sport bilan bog'liq tashkilot?": {
+    "A": "Basketbol",
+    "*B": "Futbol",
+    "C": "Tennis",
+    "D": "Voleybol"
+  },
+  "Shaxmatda har bir o'yinchida o'yin boshida nechta dona bo'ladi?": {
+    "A": "12 ta",
+    "B": "14 ta",
+    "*C": "16 ta",
+    "D": "18 ta"
+  },
+  "Shaxmat taxtasida nechta katak bor?": {
+    "A": "32 ta",
+    "*B": "64 ta",
+    "C": "72 ta",
+    "D": "81 ta"
+  },
+  "Shaxmatda eng kuchli dona odatda qaysi hisoblanadi?": {
+    "A": "Shoh",
+    "*B": "Farzin",
+    "C": "Fil",
+    "D": "Ot"
+  },
+  "Dastlabki zamonaviy Olimpiya o'yinlari qaysi shaharda o'tkazilgan?": {
+    "A": "Rim",
+    "*B": "Afina",
+    "C": "Parij",
+    "D": "London"
+  },
+  "Yerning o'z o'qi atrofida aylanishi taxminan qancha davom etadi?": {
+    "A": "12 soat",
+    "*B": "24 soat",
+    "C": "48 soat",
+    "D": "365 kun"
+  },
+  "Kompasning magnit ignasi odatda qaysi yo'nalishni ko'rsatadi?": {
+    "A": "Faqat sharqni",
+    "B": "Faqat g'arbni",
+    "*C": "Shimol yo'nalishini",
+    "D": "Janub va sharqni"
+  },
+  "Quyosh qaysi turdagi osmon jismi?": {
+    "A": "Sayyora",
+    "*B": "Yulduz",
+    "C": "Tabiiy yo'ldosh",
+    "D": "Asteroid"
+  },
+  "Oy o'zidan yorug'lik chiqaradimi?": {
+    "A": "Ha, Quyosh kabi",
+    "*B": "Yo'q, Quyosh nurini aks ettiradi",
+    "C": "Faqat qishda chiqaradi",
+    "D": "Faqat to'lin oyda chiqaradi"
+  },
+  "Qaysi sayyora halqalari bilan eng mashhur?": {
+    "A": "Mars",
+    "B": "Venera",
+    "*C": "Saturn",
+    "D": "Merkuriy"
+  },
+  "Yer atmosferasini o'rganadigan fan qaysi?": {
+    "A": "Geologiya",
+    "*B": "Meteorologiya",
+    "C": "Biologiya",
+    "D": "Astronomiya"
+  },
+  "Tirik organizmlarni o'rganadigan fan qaysi?": {
+    "A": "Fizika",
+    "*B": "Biologiya",
+    "C": "Geografiya",
+    "D": "Astronomiya"
+  },
+  "Moddalarning tarkibi va xossalarini o'rganadigan fan qaysi?": {
+    "A": "Tarix",
+    "*B": "Kimyo",
+    "C": "Geografiya",
+    "D": "Astronomiya"
+  },
+  "Harakat va kuchlarni o'rganadigan fan qaysi?": {
+    "*A": "Fizika",
+    "B": "Biologiya",
+    "C": "Tarix",
+    "D": "Adabiyot"
+  },
+  "Qaysi metall elektr tokini yaxshi o'tkazadi?": {
+    "A": "Yog'och",
+    "*B": "Mis",
+    "C": "Rezina",
+    "D": "Shisha"
+  },
+  "Dunyodagi eng uzun daryolardan biri bo'lgan Amazonka qaysi okeanga quyiladi?": {
+    "A": "Tinch okeani",
+    "*B": "Atlantika okeani",
+    "C": "Hind okeani",
+    "D": "Shimoliy Muz okeani"
+  },
+  "Samarqanddagi Registon majmuasi nechta asosiy madrasadan tashkil topgan?": {
+    "A": "2 ta",
+    "*B": "3 ta",
+    "C": "4 ta",
+    "D": "5 ta"
+  },
+  "Buxorodagi mashhur tarixiy minora qaysi nom bilan tanilgan?": {
+    "A": "Minorai Kalon",
+    "*B": "Kalon minorasi",
+    "C": "Ulug'bek minorasi",
+    "D": "Chor Minor"
+  },
+  "Toshkent shahri qaysi daryo vodiysiga yaqin joylashgan?": {
+    "A": "Zarafshon",
+    "*B": "Chirchiq",
+    "C": "Amudaryo",
+    "D": "Sirdaryo"
+  },
+  "O'zbekistonning eng katta cho'li qaysi?": {
+    "A": "Qizilqum",
+    "*B": "Qizilqum",
+    "C": "Sahroi Kabir",
+    "D": "Qoraqum"
+  },
+  "O'zbekiston hududidan oqib o'tadigan yirik daryolardan biri qaysi?": {
+    "A": "Volga",
+    "*B": "Amudaryo",
+    "C": "Nil",
+    "D": "Amazonka"
+  },
+  "Amudaryo va Sirdaryo qaysi suv havzasi bilan tarixan bog'liq?": {
+    "A": "Kaspiy dengizi",
+    "*B": "Orol dengizi",
+    "C": "Qora dengiz",
+    "D": "O'rta yer dengizi"
+  },
+  "Qaysi qit'a davlatlari soni bo'yicha eng ko'p davlatga ega?": {
+    "A": "Yevropa",
+    "*B": "Afrika",
+    "C": "Avstraliya",
+    "D": "Antarktida"
+  },
+  "Antarktida asosan nima bilan qoplangan?": {
+    "A": "O'rmonlar bilan",
+    "*B": "Muzliklar bilan",
+    "C": "Cho'llar bilan",
+    "D": "Tropik o'rmonlar bilan"
+  },
+  "Shimoliy qutb qaysi okean hududida joylashgan?": {
+    "A": "Tinch okeani",
+    "B": "Atlantika okeani",
+    "*C": "Shimoliy Muz okeani",
+    "D": "Hind okeani"
+  },
+  "Qaysi davlat shakli etikasi bo'yicha 'Quyosh chiqadigan mamlakat' deb ataladi?": {
+    "A": "Xitoy",
+    "*B": "Yaponiya",
+    "C": "Koreya",
+    "D": "Tailand"
+  },
+  "Qaysi shahar 'kanallar shahri' sifatida mashhur?": {
+    "A": "Rim",
+    "*B": "Venetsiya",
+    "C": "Berlin",
+    "D": "Madrid"
+  },
+  "Sherlok Xolms obrazining muallifi kim?": {
+    "A": "Agata Kristi",
+    "*B": "Artur Konan Doyl",
+    "C": "Jorj Oruell",
+    "D": "Mark Tven"
+  },
+  "Romeo va Julyetta asarini kim yozgan?": {
+    "A": "Charlz Dikkens",
+    "*B": "Uilyam Shekspir",
+    "C": "Jorj Bayron",
+    "D": "Ernest Xeminguey"
+  },
+  "Alpomish qaysi xalq og'zaki ijodining mashhur dostoni?": {
+    "A": "Fransuz",
+    "*B": "O'zbek",
+    "C": "Yapon",
+    "D": "Nemis"
+  },
+  "O'zbekistonning davlat tili qaysi?": {
+    "A": "Rus tili",
+    "*B": "O'zbek tili",
+    "C": "Ingliz tili",
+    "D": "Tojik tili"
+  }
+}
