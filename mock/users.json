@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Ali",
+        "age": 17,
+        "email": "ali@example.com",
+        "city": "Toshkent",
+        "registered": "2023-05-12"
+    },
+    {
+        "id": 2,
+        "name": "Vali",
+        "age": 20,
+        "email": "vali@example.com",
+        "city": "Samarqand",
+        "registered": "2022-08-01"
+    },
+    {
+        "id": 3,
+        "name": "Sami",
+        "age": 25,
+        "email": "sami@example.com",
+        "city": "Buxoro",
+        "registered": "2024-01-20"
+    },
+    {
+        "id": 4,
+        "name": "Aziza",
+        "age": 18,
+        "email": "aziza@example.com",
+        "city": "Andijon",
+        "registered": "2023-11-03"
+    },
+    {
+        "id": 5,
+        "name": "Jasur",
+        "age": 30,
+        "email": "jasur@example.com",
+        "city": "Toshkent",
+        "registered": "2021-03-15"
+    },
+    {
+        "id": 6,
+        "name": "Malika",
+        "age": 22,
+        "email": "malika@example.com",
+        "city": "Farg'ona",
+        "registered": "2022-12-28"
+    },
+    {
+        "id": 7,
+        "name": "Sherzod",
+        "age": 19,
+        "email": "sherzod@example.com",
+        "city": "Namangan",
+        "registered": "2023-02-10"
+    },
+    {
+        "id": 8,
+        "name": "Dilnoza",
+        "age": 16,
+        "email": "dilnoza@example.com",
+        "city": "Toshkent",
+        "registered": "2024-07-19"
+    }
+]
