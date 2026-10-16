@@ -1,3 +1,6 @@
+# https://www.geeksforgeeks.org/python/dunder-magic-methods-python/
+
+
 import os
 os.system("cls")
 
