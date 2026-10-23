@@ -36,7 +36,6 @@ class Window(QWidget):
         self.vbox.addWidget(self.menu)
 
         self.btn1 = QPushButton("OK")
-        # self.btn1.setGeometry(125, 640,  150, 50)
         self.btn1.setStyleSheet("""
             font-size: 20px;
             font-weight: bold;
