@@ -150,6 +150,11 @@ class Window(QWidget):
             if i.isChecked():
                 payment = i.text()
                 break
+        else:
+            QMessageBox.information(self, "Xabar",
+                                             f"Iltimos barcha maydonlarni tanlang")
+            return 
+
         QMessageBox.information(self, "Sizning buyurtmangiz",
                                  f"{food}\nIchimliklar:\n{drinks}\nTo'lov turi: {payment}")
 
