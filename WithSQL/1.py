@@ -18,7 +18,14 @@ cursor = mydb.cursor()
 #     print(i)
 
 cursor.execute("SELECT * FROM students;")
-jadval = cursor.fetchall()
-for i in jadval:
-    print(i)
+# jadval = cursor.fetchall()
+# for i in jadval:
+#     print(i)
 
+
+# qator = cursor.fetchone()
+# print(qator)
+
+qatorlar = cursor.fetchmany(3)
+for i in qatorlar:
+    print(i)
