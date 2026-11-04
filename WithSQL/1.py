@@ -31,18 +31,28 @@ cursor = mydb.cursor()
 #     print(i)
 
 
-ism = input("Ism: ")
-fam = input("Familya: ")
-sana = input("Sana: ")
-manzil = input("Manzil: ")
+# ism = input("Ism: ")
+# fam = input("Familya: ")
+# sana = input("Sana: ")
+# manzil = input("Manzil: ")
 
-query1 = f"""
-    INSERT INTO students (first_name, last_name, birth_date, manzil)
-    VALUES
-    ('{ism}', '{fam}', '{sana}', '{manzil}');
+# query1 = f"""
+#     INSERT INTO students (first_name, last_name, birth_date, manzil)
+#     VALUES
+#     ('{ism}', '{fam}', '{sana}', '{manzil}');
+# """
+
+# cursor.execute(query1)
+# mydb.commit()
+
+# print(cursor.rowcount, "ta qator qo'shildi")
+
+query2 = """
+    UPDATE students
+    SET first_name = 'Amir', last_name='Temur'
+    WHERE id = 6;
 """
 
-cursor.execute(query1)
+cursor.execute(query2)
 mydb.commit()
-
-print(cursor.rowcount, "ta qator qo'shildi")
+print(cursor.rowcount, "ta qator o'zgardi")
