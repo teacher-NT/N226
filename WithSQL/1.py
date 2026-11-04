@@ -17,7 +17,7 @@ cursor = mydb.cursor()
 # for i in cursor:
 #     print(i)
 
-cursor.execute("SELECT * FROM students;")
+# cursor.execute("SELECT * FROM students;")
 # jadval = cursor.fetchall()
 # for i in jadval:
 #     print(i)
@@ -26,6 +26,23 @@ cursor.execute("SELECT * FROM students;")
 # qator = cursor.fetchone()
 # print(qator)
 
-qatorlar = cursor.fetchmany(3)
-for i in qatorlar:
-    print(i)
+# qatorlar = cursor.fetchmany(3)
+# for i in qatorlar:
+#     print(i)
+
+
+ism = input("Ism: ")
+fam = input("Familya: ")
+sana = input("Sana: ")
+manzil = input("Manzil: ")
+
+query1 = f"""
+    INSERT INTO students (first_name, last_name, birth_date, manzil)
+    VALUES
+    ('{ism}', '{fam}', '{sana}', '{manzil}');
+"""
+
+cursor.execute(query1)
+mydb.commit()
+
+print(cursor.rowcount, "ta qator qo'shildi")
